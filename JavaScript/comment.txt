@@ -1,1 +1,2 @@
-Although the resolution of the JavaScript exercises were uploaded in a first version at the same time as the resolution of the Java and SQL exercises, it has been replaced by the current file because I realized that there was an error in an answer, which is corrected in the new uploaded file.
+Although the resolution of the JavaScript exercises were uploaded in a first version at the same time as the resolution of the Java and SQL exercises, 
+it has been replaced by the current file because I realized that there was an error in an answer, which is corrected in the new uploaded file.
